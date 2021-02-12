@@ -1,0 +1,14 @@
+name: Metadata Viz
+output_dir: "docs"
+exclude: ['*.rda', "*.csv", '*.pdf', '*.dta', '*.csv', '*.csl', '*.bibtex', '*.docx', "data"]
+navbar:
+  title: "Template-Project"
+  left:
+  - text: "Overview"
+    href: index.html
+  - text: "Template-Analysis-Report"
+    href: template-analysis.html
+output:
+  html_document:
+    theme: default
+
