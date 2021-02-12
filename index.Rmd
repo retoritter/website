@@ -22,3 +22,11 @@ of the code: (add your Name and the names of the contributors)
 A big thank you to Ruben Arslan for development of reproducible visualization of research projects on the web (repro-web-stack) [click here for more Info](https://github.com/rubenarslan/repro_web_stack)
 
 ### References
+
+## Graphic
+```{r}
+
+knitr::include_graphics("https://images.unsplash.com/photo-1507668077129-56e32842fceb?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8c2NpZW5jZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60")
+
+```
+
