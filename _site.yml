@@ -10,5 +10,5 @@ navbar:
     href: template-analysis.html
 output:
   html_document:
-    theme: default
+    theme: flatly
 
